@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OrderOfOdin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\OrderOfOdin 4.21\Intermediate\Build\Win64\OrderOfOdinEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\OrderOfOdin 4.21\Intermediate\Build\Win64\UE4Editor\Development\OrderOfOdin\OrderOfOdin.cpp.obj"
+"E:\OrderOfOdin 4.21\Intermediate\Build\Win64\UE4Editor\Development\OrderOfOdin\OrderOfOdinCharacter.cpp.obj"
+"E:\OrderOfOdin 4.21\Intermediate\Build\Win64\UE4Editor\Development\OrderOfOdin\OrderOfOdinGameMode.cpp.obj"
+"E:\OrderOfOdin 4.21\Intermediate\Build\Win64\UE4Editor\Development\OrderOfOdin\OrderOfOdin.init.gen.cpp.obj"
+"E:\OrderOfOdin 4.21\Intermediate\Build\Win64\UE4Editor\Development\OrderOfOdin\OrderOfOdinCharacter.gen.cpp.obj"
+"E:\OrderOfOdin 4.21\Intermediate\Build\Win64\UE4Editor\Development\OrderOfOdin\OrderOfOdinGameMode.gen.cpp.obj"
+"E:\OrderOfOdin 4.21\Intermediate\Build\Win64\UE4Editor\Development\OrderOfOdin\PCLaunch.rc.res"
+/OUT:"E:\OrderOfOdin 4.21\Intermediate\Build\Win64\UE4Editor\Development\OrderOfOdin\UE4Editor-OrderOfOdin.lib"

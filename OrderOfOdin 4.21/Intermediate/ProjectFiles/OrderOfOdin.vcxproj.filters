@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\OrderOfOdin.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{963AAA8A-EC1C-4628-8DE7-3AFEF4B393EB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OrderOfOdin.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\OrderOfOdinEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E0759169-8383-4A08-ACC0-DFE1C43DCD9C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\OrderOfOdin">
+      <UniqueIdentifier>{4C285D2E-E8F8-4CA4-95E1-438ED9E2EF74}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OrderOfOdin\OrderOfOdin.Build.cs">
+      <Filter>Source\OrderOfOdin</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\OrderOfOdin\OrderOfOdin.cpp">
+      <Filter>Source\OrderOfOdin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OrderOfOdin\OrderOfOdin.h">
+      <Filter>Source\OrderOfOdin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OrderOfOdin\OrderOfOdinCharacter.cpp">
+      <Filter>Source\OrderOfOdin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OrderOfOdin\OrderOfOdinCharacter.h">
+      <Filter>Source\OrderOfOdin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OrderOfOdin\OrderOfOdinGameMode.cpp">
+      <Filter>Source\OrderOfOdin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OrderOfOdin\OrderOfOdinGameMode.h">
+      <Filter>Source\OrderOfOdin</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
