@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\OrderOfOdin.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{963AAA8A-EC1C-4628-8DE7-3AFEF4B393EB}</UniqueIdentifier>
+      <UniqueIdentifier>{F60BC33D-41BC-4CAE-AD92-B5A4E82259CE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\OrderOfOdin.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{E0759169-8383-4A08-ACC0-DFE1C43DCD9C}</UniqueIdentifier>
+      <UniqueIdentifier>{629F4628-DF50-480E-AF0C-057EB01BB0D2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\OrderOfOdin">
-      <UniqueIdentifier>{4C285D2E-E8F8-4CA4-95E1-438ED9E2EF74}</UniqueIdentifier>
+      <UniqueIdentifier>{E114C0E7-AD0D-4D44-85E6-898DEA810895}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\OrderOfOdin\OrderOfOdin.Build.cs">
       <Filter>Source\OrderOfOdin</Filter>
